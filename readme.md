@@ -23,3 +23,4 @@ crontab -e
 *: Dấu sao (*) biểu thị rằng job sẽ chạy vào mọi ngày trong tuần.
 ```
 
+
